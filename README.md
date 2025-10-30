@@ -26,7 +26,7 @@ It visualizes relationships between popularity, artists, album types, and explic
 ---
 
 ## 📸 Dashboard Preview
-![Spotify Dashboard](Spotify Dashboard.png)
+![Spotify Dashboard](Images/Spotify%20Dashboard.png)
 
 ---
 
