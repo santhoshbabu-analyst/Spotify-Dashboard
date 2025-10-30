@@ -26,7 +26,7 @@ It visualizes relationships between popularity, artists, album types, and explic
 ---
 
 ## 📸 Dashboard Preview
-![Spotify Dashboard](images/spotify_dashboard.png)
+![Spotify Dashboard](Images/spotify_dashboard.png)
 
 ---
 
@@ -43,14 +43,14 @@ The dataset used for this project contains Spotify music data with the following
 | `is_explicit` | Explicit content indicator |
 | `position` | Song’s position on the chart |
 
-📂 Dataset file: [`data/spotify-top-50-world.csv`](data/spotify-top-50-world.csv)
+📂 Dataset file: [`Data/spotify-top-50-world.csv`](Data/spotify-top-50-world.csv)
 
 ---
 
 ## ⚙️ DAX Measures
 All key calculations (like averages, explicit song count, and popularity KPIs) are written in DAX.
 
-📄 DAX file: [`dax/spotify_measures.dax`](dax/spotify_measures.dax)
+📄 DAX file: [`Dax/spotify_measures.dax`](Dax/spotify_measures.dax)
 
 ---
 
@@ -58,4 +58,3 @@ All key calculations (like averages, explicit song count, and popularity KPIs) a
 **Santhosh Babu S**  
 📧 [santhoshbabus.analyst@gmail.com](mailto:santhoshbabus.analyst@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/santhoshbabus) | [GitHub](https://github.com/santhoshbabu-analyst)
-
