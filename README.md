@@ -54,6 +54,13 @@ All key calculations (like averages, explicit song count, and popularity KPIs) a
 
 ---
 
+## 💡 Power BI File
+You can explore and interact with the dashboard using the Power BI file below.
+
+📊 Power BI file: [`PowerBI/Spotify Dashboard.pbix`](PowerBI/Spotify%20Dashboard.pbix)
+
+---
+
 ## 📬 Contact
 **Santhosh Babu S**  
 📧 [santhoshbabus.analyst@gmail.com](mailto:santhoshbabus.analyst@gmail.com)  
